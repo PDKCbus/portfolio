@@ -20,6 +20,6 @@ __pycache__/
 # Ignore logs
 *.log
 
-bin
+bin/
 
-lib
+lib/
