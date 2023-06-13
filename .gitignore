@@ -1,0 +1,25 @@
+.idea/*
+.DS_Store
+
+
+*/__pycache__/
+
+# Ignore compiled Python files
+__pycache__/
+
+
+# Ignore environment-specific files
+.env
+.env.*
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+*.pyc
+
+# Ignore logs
+*.log
+
+bin
+
+lib
